@@ -1,10 +1,9 @@
 ---
 title: "Research"
 format: html
-editor: visual
 ---
 
 ## Project
 
-\
+
 + Recent development of psychometrics
